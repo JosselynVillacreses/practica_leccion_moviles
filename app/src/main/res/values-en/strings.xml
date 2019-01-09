@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test game ☺</string>
+    <string name="name_label">Insert your name</string>
+    <string name="send_buttom">Send</string>
+    <string name="question1">If I have 5 apples and I eat 3, hoy many apples does he has left?</string>
+    <string name="question2">Juanito has 8 candies and he wants to give them to his 2 best friends, how many candies get each one?</string>
+    <string name="question3"> María has $10. She bought a $4 t-shirt and a $3 notebook. How much money does she has left?</string>
+    <string name="correct">Correct! ☺</string>
+    <string name="fail">Fail! :(</string>
+    <string name="ca">The correct answer is </string>
+</resources>

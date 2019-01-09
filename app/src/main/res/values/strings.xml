@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Juego lección ☺</string>
+    <string name="name_label">Ingresa tu nombre</string>
+    <string name="send_buttom">Enviar</string>
+    <string name="question1">Si tengo 5 manzanas y regalo 3 ¿cuántas manzanas me quedan?</string>
+    <string name="question2">Juanito tiene 8 caramelos y quiere regalárselos a sus 2 mejores amigos ¿cuántos caramelos le toca a cada uno?</string>
+    <string name="question3">María tiene $10, compra una blusa de $4 y un cuaderno de $3 ¿Cuánto dinero le sobra?</string>
+    <string name="correct">¡Correcto! ☺</string>
+    <string name="fail">¡Incorrecto! :(</string>
+    <string name="ca">La respuesta correcta es </string>
+
+
+</resources>
